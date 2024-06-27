@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: aws sts get-caller-identity
 ---
 
