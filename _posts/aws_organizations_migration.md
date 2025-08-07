@@ -1,6 +1,6 @@
-# The Great AWS Organizations Migration: Lessons from the Trenches
+# AWS Organizations Migration: Lessons from a large digital native financial services company's journey. 
 
-*A real-world guide to migrating from a workload bearing Organization Management Account to a dedicated security focused structure*
+*A real world guide to migrating from a workload bearing Organization Management Account to a dedicated security focused, isolated AWS Organization Management Account*
 
 If you're reading this, chances are you're staring at the same uncomfortable reality that countless AWS customers face: your Organization Management Account is also running production workloads. You're not alone, and more importantly, you're not stuck with this architecture forever.
 
