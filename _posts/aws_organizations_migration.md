@@ -8,7 +8,7 @@ If you're reading this, chances are you're staring at the same uncomfortable rea
 
 Back in 2018, when many of us were first setting up AWS Organizations, the implications weren't as clear. The security best practices hadn't been as widely evangelized, and frankly, AWS hadn't made the risks as obvious as they are today. Fast forward to 2024, and we're living with the consequences of those early architectural decisions.
 
-The issue? Having your Organization Management Account (formerly the "Master" account) also serve as a production workload account creates a perfect storm of security vulnerabilities:
+The issue? Having your Organization Management Account (formerly the "Billing Master" or "Payer" account) also serve as a production workload account creates a perfect storm of security vulnerabilities:
 
 - **Privilege escalation risks** become exponentially more dangerous
 - **Account to account lateral movement** becomes trivial for attackers
